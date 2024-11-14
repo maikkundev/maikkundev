@@ -9,6 +9,8 @@ My name is Michael, I'm a Back-end developer! I'm currently studying Computer Sc
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/98495527?s=200&v=4" height="40" alt="honojs logo"  />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
