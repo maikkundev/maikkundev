@@ -15,9 +15,7 @@ My name is Michael, I'm a Back-end developer! I'm currently studying Computer Sc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo"  />
-  <img width="12" class="rounded"/>
-  <img src="https://avatars.githubusercontent.com/u/22525303?s=200&v=4" height="40" alt="fly.io logo"  />
+  <img src="https://avatars.githubusercontent.com/u/66716858?s=200&v=4" height="40" alt="railway logo"  />
 </div>
 
 ###
