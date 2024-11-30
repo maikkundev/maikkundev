@@ -3,6 +3,10 @@
 My name is Michael, I'm a Back-end developer! I'm currently studying Computer Science at Ionian University.
 
 <div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" height="40" alt="dotnet logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
