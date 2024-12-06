@@ -11,9 +11,7 @@ My name is Michael, I'm a Back-end developer! I'm currently studying Computer Sc
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/98495527?s=200&v=4" height="40" alt="honojs logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" height="40" alt="dotnet logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
