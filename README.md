@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Michael, I'm a Back-end developer! I'm currently studying Computer Science at Ionian University.
+My name is Michael and I'm a Back-end developer! I'm currently studying Computer Science at Ionian University.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
