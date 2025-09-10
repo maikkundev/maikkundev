@@ -5,21 +5,23 @@ My name is Michael and I'm a Back-end developer! I'm currently studying Computer
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/98495527?s=200&v=4" height="40" alt="honojs logo"  />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/66716858?s=200&v=4" height="40" alt="railway logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
